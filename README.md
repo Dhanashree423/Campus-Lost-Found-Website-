@@ -2,7 +2,7 @@
 
 
 Campus Lost & Found Portal is a web application designed to help users report lost items and post found items.  
-The platform aims to simplify item recovery by allowing users to create listings with item details and contact information.
+
 ---
 
 ## Features
